@@ -39,10 +39,6 @@ build_metadata.AdditionalFiles.CssScope =
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSGlzdG9yaWNvQ29ycmlkYVxDcmVhdGUuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/João Pedro/source/repos/WebPostgreSQL/WebPostgreSQL/Views/HistoricoCorrida/Delete.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSGlzdG9yaWNvQ29ycmlkYVxEZWxldGUuY3NodG1s
-build_metadata.AdditionalFiles.CssScope = 
-
 [C:/Users/João Pedro/source/repos/WebPostgreSQL/WebPostgreSQL/Views/HistoricoCorrida/Details.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSGlzdG9yaWNvQ29ycmlkYVxEZXRhaWxzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 

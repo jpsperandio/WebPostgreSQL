@@ -11,7 +11,7 @@ namespace WebPostgreSQL.Models
         public int Id { get; set; }
 
         [Column("CompetidorId")]
-        [Display(Name = "Código")]
+        [Display(Name = "ID do competidor")]
         public int CompetidorId { get; set; }
 
         [Column("PistaCorridaId")]
@@ -19,11 +19,11 @@ namespace WebPostgreSQL.Models
         public int PistaCorridaId { get; set; }
 
         [Column("DataCorrida")]
-        [Display(Name = "DataCorrida")]
+        [Display(Name = "Data da corrida")]
         public DateTime DataCorrida { get; set; }
 
         [Column("TempoGasto")]
-        [Display(Name = "TempoGasto")]
+        [Display(Name = "Tempo gasto na corrida")]
         public Decimal TempoGasto { get; set; }
     }
     
