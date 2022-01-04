@@ -24,7 +24,7 @@ namespace WebPostgreSQL.Models
 
         [Column("TempoGasto")]
         [Display(Name = "Tempo gasto na corrida")]
-        public Decimal TempoGasto { get; set; }
+        public Double TempoGasto { get; set; }
     }
     
 }
